@@ -21,7 +21,7 @@ class Student
     self.send(("#{k}="), v)
    end
   end
-
+binding.pry
   def self.all
     
   end
